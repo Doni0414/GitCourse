@@ -3,5 +3,7 @@ public class App{
 		System.out.println("Hello");
 		System.out.println(5+10);
 		//1 Changes
+		System.out.println("New line");
+		System.out.println(6*10);
 	}
 }
